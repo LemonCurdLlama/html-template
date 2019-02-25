@@ -1,2 +1,31 @@
-/* CSS styles */
+p {
+  color: purple;
+  font size: 16pt;/* CSS styles */
+  background-color: pink;
+  margin: 0;
+  text-align: center}
+
+li {
+  font size: 16pt;
+  margin: 5px;
+  padding: 5px;}
+
+body {
+  background-colour: blue;}
+
+img {
+  float: right;}
+
+p.quote {
+  text-emphasis-color: teal;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+h1{
+  text-align: center
+}
+
+
+
 
